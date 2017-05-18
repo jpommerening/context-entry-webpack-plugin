@@ -1,0 +1,12 @@
+{
+  "name": "context-entry-webpack-plugin",
+  "version": "0.1.0",
+  "description": "Use a context module as webpack entry",
+  "main": "index.js",
+  "repository": "https://github.com/jpommerening/context-entry-webpack-plugin.git",
+  "author": "Jonas Pommerening <jonas.pommerening@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "webpack": "^2.2.0"
+  }
+}
